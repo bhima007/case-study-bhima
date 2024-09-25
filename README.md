@@ -15,6 +15,11 @@ Create a simple table application that allows users to:
 - Add new rows to the table with specified data.
 - Edit existing rows and update their data.
 - Delete rows from the table.
+- Filter the data based on the name, division, position and working status.
+
+Create a detail page, that will show the detail of the single data
+
+Create a create page that allow user to input the data into forms (make the input type match the data)
 
 ## Requirements:
 
